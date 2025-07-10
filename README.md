@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align="center">✨ LookMaxxing.ai</h1>
+  [Live Link](https://look-maxxing-ai.vercel.app/)
   <p align="center">AI-Powered Personal Style Transformation Platform</p>
   
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
