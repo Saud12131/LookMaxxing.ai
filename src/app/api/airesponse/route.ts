@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+export const runtime = "edge";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { NextRequest, NextResponse } from "next/server";
 import { systemInstruction } from "@/prompt";
